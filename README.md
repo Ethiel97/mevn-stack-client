@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # mevn_client
 
 > A Vue.js project
