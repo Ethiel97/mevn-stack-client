@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mevn_client
 
 > A Vue.js project
@@ -19,3 +20,8 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# mevn-stack-client
+A middle-level but complete project with MongoDB, Express, Vuejs (Vuex for state management) and Node.js
+This is the client side code with Vue.js for Front-end, Vuex for state management and Axios for http calls
+>>>>>>> 35e9fb8e91e459f6b1ebf178a65fc2ea0b63892b
