@@ -23,4 +23,3 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 # mevn-stack-client
 A middle-level but complete project with MongoDB, Express, Vuejs (Vuex for state management) and Node.js
 This is the client side code with Vue.js for Front-end, Vuex for state management and Axios for http calls
->>>>>>> 35e9fb8e91e459f6b1ebf178a65fc2ea0b63892b
